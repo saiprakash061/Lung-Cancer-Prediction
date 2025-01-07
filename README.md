@@ -1,5 +1,5 @@
 
-# Lung Cancer Prediction - README
+# Lung Cancer Prediction
 
 ## Project Overview
 This project aims to develop a machine learning model to predict lung cancer risk based on a survey dataset. The dataset contains information on various factors such as smoking habits, age, gender, and other health conditions. The project implements multiple machine learning models to evaluate their predictive performance and identify the most effective approach.
